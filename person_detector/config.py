@@ -1,0 +1,7 @@
+UPLOAD_FOLDER = './person_detector/static/single_image/original/'
+DOWNLOAD_FOLDER = './person_detector/static/single_image//processed/'
+IMAGE_NAME_ERROR = 'If you have defined imageName in json, there is no such image. If not, then define it.'
+IMAGENAME = 'imageName'
+VALIDATE_TEST_FOLDER = './person_detector/static/batch_images/validate_test'
+VALIDATE_RESULT_FOLDER = './person_detector/static/batch_images/validate_result/'
+MODEL_FOLDER = './person_detector/static/models/'
