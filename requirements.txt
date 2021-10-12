@@ -23,7 +23,7 @@ matplotlib==2.2.2
 mkl-fft==1.0.0
 mkl-random==1.0.1
 numpy==1.14.2
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 pycodestyle==2.4.0
 pyparsing==2.2.0
 python-dateutil==2.7.2
