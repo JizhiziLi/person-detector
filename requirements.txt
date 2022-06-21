@@ -22,7 +22,7 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 mkl-fft==1.0.0
 mkl-random==1.0.1
-numpy==1.14.2
+numpy==1.22.0
 opencv-python==3.4.0.12
 pycodestyle==2.4.0
 pyparsing==2.2.0
